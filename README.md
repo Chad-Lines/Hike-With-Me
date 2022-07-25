@@ -1,5 +1,5 @@
 # Hike With Me
-A basic social app, built with ASP.NET React, and MobX, to help people sync up to go hiking. 
+A basic social app, built with ASP.NET, React (with TypeScript), and MobX, to help people sync up to go hiking. 
 
 ## High-Level Goals
 - [ ] Hiking Dashboard w/ filters
